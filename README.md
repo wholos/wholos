@@ -21,8 +21,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/4acf2bae-127f-4c00-96b1-10d679f3c698.svg)](https://wakatime.com/@4acf2bae-127f-4c00-96b1-10d679f3c698)
 
-<div alignt="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" height="30" alt"emacs logo" />
-</div>
-
 ###
