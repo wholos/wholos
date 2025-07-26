@@ -12,4 +12,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/4acf2bae-127f-4c00-96b1-10d679f3c698.svg)](https://wakatime.com/@4acf2bae-127f-4c00-96b1-10d679f3c698)
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/holos)
+
 ###
