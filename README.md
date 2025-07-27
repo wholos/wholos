@@ -1,7 +1,7 @@
 ###
 
-[![D](https://img.shields.io/badge/D-Lang?style=flat&logo=D&logoColor=white&color=%23B03931)](#)
 [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)
+[![D](https://img.shields.io/badge/D-Lang?style=flat&logo=D&logoColor=white&color=%23B03931)](#)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -13,6 +13,9 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://linux.org/)
 
 [![wakatime](https://wakatime.com/badge/user/4acf2bae-127f-4c00-96b1-10d679f3c698.svg)](https://wakatime.com/@4acf2bae-127f-4c00-96b1-10d679f3c698)
+
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/holos)
 
