@@ -1,5 +1,6 @@
 ###
 
+[![D](https://img.shields.io/badge/D-Lang?style=flat&logo=D&logoColor=white&color=%23B03931)](#)
 [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
